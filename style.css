@@ -82,9 +82,8 @@ main p {
     color: black;
 }
 
-/* Global spacing fix */
 main p, main ul li {
-    margin-bottom: 1vh; /* Ensures consistent spacing between lines */
+    margin-bottom: 1vh;
     font-size: calc(14px + 0.5vw);
 }
 
